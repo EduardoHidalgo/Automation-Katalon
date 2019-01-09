@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS01_DailyCheck Test Environments" time="23" tests="1" failures="0" errors="0">
+   <testsuite name="TS01_DailyCheck Test Environments" tests="1" failures="0" errors="0" time="23" timestamp="2018-08-07 12:01:10" hostname="NGPDDT009243 - NGPDDT009243-LP.bdt.lan" id="Test Suites/TS01_DailyCheck Test Environments">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_120108"/>
+         <property name="logFiles" value="C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_120108\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_120108\\1533661284539.png, C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_120108\\1533661286335.png, C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_120108\\1533661288184.png"/>
+         <property name="hostName" value="NGPDDT009243 - NGPDDT009243-LP.bdt.lan"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.51.145"/>
+         <property name="sessionId" value="2d0336236a25eaff458b619dc1adaf26"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico" classname="Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico" status="PASSED">
+         <system-out><![CDATA[2018-08-07 12:01:11 - [TEST_CASE][PASSED] - Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico: Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico
+
+2018-08-07 12:01:11 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-07 12:01:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-07 12:01:14 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-08-07 12:01:16 - [MESSAGE][PASSED] - Current window maximized
+
+2018-08-07 12:01:16 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://aeromexico.com/es-mx' successfully
+
+2018-08-07 12:01:20 - [MESSAGE][PASSED] - Navigate to 'https://aeromexico.com/es-mx' successfully
+
+2018-08-07 12:01:20 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-08-07 12:01:22 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-08-07 12:01:22 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-08-07 12:01:24 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-08-07 12:01:24 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/div_Aeromexico_StaticLogo' is present
+
+2018-08-07 12:01:24 - [MESSAGE][PASSED] - Object 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/div_Aeromexico_StaticLogo' is present
+
+2018-08-07 12:01:24 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-08-07 12:01:25 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_120108\\1533661284539.png]]
+
+2018-08-07 12:01:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/Textbox_Origen' is clicked on
+
+2018-08-07 12:01:25 - [MESSAGE][PASSED] - Object: 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/Textbox_Origen' is clicked on
+
+2018-08-07 12:01:25 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-08-07 12:01:26 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-08-07 12:01:26 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-08-07 12:01:26 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_120108\\1533661286335.png]]
+
+2018-08-07 12:01:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/Label_Origen_CUN' is clicked on
+
+2018-08-07 12:01:27 - [MESSAGE][PASSED] - Object: 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/Label_Origen_CUN' is clicked on
+
+2018-08-07 12:01:27 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-08-07 12:01:28 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-08-07 12:01:28 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-08-07 12:01:28 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_120108\\1533661288184.png]]
+
+2018-08-07 12:01:28 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-08-07 12:01:33 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-08-07 12:01:33 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-07 12:01:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-07 12:01:10 - [TEST_SUITE][PASSED] - TS01_DailyCheck Test Environments: Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

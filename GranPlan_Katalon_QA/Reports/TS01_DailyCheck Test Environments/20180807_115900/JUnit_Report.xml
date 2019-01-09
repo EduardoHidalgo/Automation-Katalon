@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS01_DailyCheck Test Environments" time="37" tests="1" failures="1" errors="0">
+   <testsuite name="TS01_DailyCheck Test Environments" tests="1" failures="1" errors="0" time="37" timestamp="2018-08-07 11:59:02" hostname="NGPDDT009243 - NGPDDT009243-LP.bdt.lan" id="Test Suites/TS01_DailyCheck Test Environments">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_115900"/>
+         <property name="logFiles" value="C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_115900\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_115900\\1533661157466.png, C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_115900\\1533661178546.png, C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_115900\\1533661178855.png"/>
+         <property name="hostName" value="NGPDDT009243 - NGPDDT009243-LP.bdt.lan"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.3.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="192.168.51.145"/>
+         <property name="sessionId" value="82fe059ec499553c100083d32be769e8"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico" classname="Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico" status="PASSED">
+         <system-out><![CDATA[2018-08-07 11:59:03 - [TEST_CASE][PASSED] - Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico: Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico
+
+2018-08-07 11:59:03 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-07 11:59:07 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-07 11:59:07 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2018-08-07 11:59:08 - [MESSAGE][PASSED] - Current window maximized
+
+2018-08-07 11:59:08 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://aeromexico.com/es-mx' successfully
+
+2018-08-07 11:59:13 - [MESSAGE][PASSED] - Navigate to 'https://aeromexico.com/es-mx' successfully
+
+2018-08-07 11:59:13 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2018-08-07 11:59:15 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-08-07 11:59:15 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2018-08-07 11:59:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2018-08-07 11:59:17 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/div_Aeromexico_StaticLogo' is present
+
+2018-08-07 11:59:17 - [MESSAGE][PASSED] - Object 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/div_Aeromexico_StaticLogo' is present
+
+2018-08-07 11:59:17 - [TEST_STEP][PASSED] - takeScreenshot: Taking screenshot successfully
+
+2018-08-07 11:59:18 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_115900\\1533661157466.png]]
+
+2018-08-07 11:59:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/Textbox_Origen' is clicked on
+
+2018-08-07 11:59:18 - [MESSAGE][PASSED] - Object: 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/Textbox_Origen' is clicked on
+
+2018-08-07 11:59:18 - [TEST_STEP][PASSED] - delay: Delayed 1 second(s)
+
+2018-08-07 11:59:19 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+2018-08-07 11:59:19 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/Label_Origen_CUN' is clicked on
+
+2018-08-07 11:59:19 - [MESSAGE][PASSED] - Object: 'Object Repository/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico/Label_Origen_CUN' is clicked on
+
+2018-08-07 11:59:19 - [TEST_STEP][PASSED] - delay: Delayed 5 second(s)
+
+2018-08-07 11:59:24 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2018-08-07 11:59:24 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-07 11:59:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel" classname="Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel" status="FAILED">
+         <failure type="FAILED" message="Unable to verify object 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id(&quot;Package&quot;)[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found)"/>
+         <system-out><![CDATA[2018-08-07 11:59:25 - [TEST_CASE][FAILED] - Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel: Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel FAILED because (of) Unable to verify object 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id("Package")[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found)
+
+2018-08-07 11:59:25 - [TEST_STEP][PASSED] - Statement - url = CustomKeywords.package_DailyCheck_TC02_Ajax_Ktravel.packageSearch.CrearURL(domain, affiliate): package_DailyCheck_TC02_Ajax_Ktravel.packageSearch.CrearURL is PASSED
+
+2018-08-07 11:59:25 - [MESSAGE][PASSED] - Concatenated string array: '['','/Paquetes/busqueda?','af=','']' into '/Paquetes/busqueda?af='
+
+2018-08-07 11:59:25 - [MESSAGE][PASSED] - Concatenated string array: '['URL: ','/Paquetes/busqueda?af=']' into 'URL: /Paquetes/busqueda?af='
+
+2018-08-07 11:59:25 - [MESSAGE][PASSED] - package_DailyCheck_TC02_Ajax_Ktravel.packageSearch.CrearURL is PASSED
+
+2018-08-07 11:59:25 - [TEST_STEP][FAILED] - package_DailyCheck_TC02_Ajax_Ktravel.packageSearch.NavegarURL: Unable to verify object 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id("Package")[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found)
+
+2018-08-07 11:59:27 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-07 11:59:28 - [MESSAGE][PASSED] - Current window maximized
+
+2018-08-07 11:59:31 - [MESSAGE][PASSED] - Navigate to 'http:/Paquetes/busqueda?af=' successfully
+
+2018-08-07 11:59:31 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2018-08-07 11:59:34 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2018-08-07 11:59:38 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id("Package")[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found
+[[ATTACHMENT|C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_115900\\1533661178546.png]]
+
+2018-08-07 11:59:39 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id("Package")[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found)
+[[ATTACHMENT|C:\\Users\\NGPDDT009243\\Documents\\git\\GranPlan_Katalon_QA\\Reports\\TS01_DailyCheck Test Environments\\20180807_115900\\1533661178855.png]]
+
+2018-08-07 11:59:39 - [MESSAGE][FAILED] - Unable to verify object 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id("Package")[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found)]]></system-out>
+         <system-err><![CDATA[2018-08-07 11:59:25 - [TEST_CASE][FAILED] - Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel: Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel FAILED because (of) Unable to verify object 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id("Package")[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-07 11:59:02 - [TEST_SUITE][FAILED] - TS01_DailyCheck Test Environments: Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel FAILED because (of) Unable to verify object 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id("Package")[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found)]]></system-out>
+      <system-err><![CDATA[2018-08-07 11:59:02 - [TEST_SUITE][FAILED] - TS01_DailyCheck Test Environments: Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel FAILED because (of) Unable to verify object 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' is present (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/DailyCheck/TC04_Verify Sucessfull - Ktravel Package/Busqueda/a_Paquetes' located by 'By.xpath: id("Package")[count(. | //a[@id = 'Package']) = count(//a[@id = 'Package'])]' not found)]]></system-err>
+   </testsuite>
+</testsuites>

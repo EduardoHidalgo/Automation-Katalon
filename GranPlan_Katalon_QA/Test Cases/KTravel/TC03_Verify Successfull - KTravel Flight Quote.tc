@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Verify Successfull - KTravel Flight Quote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2d1e461-59c9-4ffd-aec1-88febc105cbc</testCaseGuid>
+</TestCaseEntity>

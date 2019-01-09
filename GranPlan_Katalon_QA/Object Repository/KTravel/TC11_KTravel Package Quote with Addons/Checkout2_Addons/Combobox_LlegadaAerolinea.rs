@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Combobox_LlegadaAerolinea</name>
+   <tag></tag>
+   <elementGuidId>a273fa7a-e3db-4334-9878-c5b7b8107da8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;EtAirlineSelectOb&quot;)[count(. | //*[@id = 'EtAirlineSelectOb']) = count(//*[@id = 'EtAirlineSelectOb'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>EtAirlineSelectOb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Aerolínea</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seleccione la aerolíneaAerocontinente ChileAerolineas ArgentinasAeromarAeromexicoAir BerlinAir CanadaAir EuropaAir FranceAir IndiaAir JamaicaAir MadagascarAir TahitiAirtran AirwaysAlas de Uruguay Alaska AirlinesAlitaliaAlitalia CityLinerAll Nippon AirwaysAmerican AirlinesAndes Lineas AereasAsiana AirAustral Lineas AereasAvian Lineas AereasAviancaAviancaAzulBahamasairBoliviana de Aviacion (BOA)British AirwaysCondor Flugdienst GmbhContinentalConviasaCopa AirlinesCroatia AirlinesDelta Air LinesEl Al Israel Airlines LimitedEmirates AirlinesEthiopian AirlinesEtihad AirwaysEva AirwaysEvelop Airlines S.LFinn ArlinesFrontier AirlinesGolHahn AirHawaiian AirlinesIberia AirlinesInterjetJapan AirlinesJetBlueKLMKorean Air LinesLACSALan PeruLATAMLATAMLC PeruLufthansaMalaysia AirlinesMartinairMayAirMUNICHNew ZealandNorthwestNorwegian Air ShuttlPASSAREDOPegasus AirlinesPUBLIC CHARTERSQantas Airways LtdQatar AirwaysRoyal Air MarocSky AirlinesSouth African AirwaysSouthwest AirlinesSpirit AirlinesSun Country AirlinesSwissSwiss Air Transport Co LtdTACATag AirlinesTap Air PortugalTARThomas Cook AirlinesTransportes Aereos Militates ETripTurkish Airlines United AirlinesUS AirwaysVivaAerobusVivaColombiaVolarisVolaris Costa RicaVueling AirlinesWamos Air S.AWebjetWestjet Airlines LtdXL Airways</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EtAirlineSelectOb&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

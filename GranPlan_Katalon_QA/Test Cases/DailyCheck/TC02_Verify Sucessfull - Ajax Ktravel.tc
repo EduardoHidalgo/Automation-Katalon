@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Verify Sucessfull - Ajax Ktravel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3294f30a-63a6-4d76-bb76-b567c36e6916</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>261cb3ae-c10a-4866-ba52-d7ca0b0fa716</id>
+      <masked>false</masked>
+      <name>domain</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48e4cd26-f59f-4e65-b48d-d3e29b0aa13f</id>
+      <masked>false</masked>
+      <name>affiliate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b62a3301-22aa-468e-8d11-70056a8e24d7</id>
+      <masked>false</masked>
+      <name>origen</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da8b7ed7-2805-4a53-b1ad-d63c2e300fb3</id>
+      <masked>false</masked>
+      <name>origenText</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>98ba5eea-721f-4ae1-affb-7188b0f4f997</id>
+      <masked>false</masked>
+      <name>destino</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23613493-d24a-48a3-aaa0-828147842b9d</id>
+      <masked>false</masked>
+      <name>destinoText</name>
+   </variable>
+</TestCaseEntity>

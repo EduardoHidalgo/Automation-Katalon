@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify Successfull - KTravel Hotel List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07a96221-539e-4289-9cf6-eefedc25f83c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e8487a1a-db73-4822-bb99-9c7af018ff35</id>
+      <masked>false</masked>
+      <name>Domain</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3ea85d1-684b-493e-9d99-05c0508f4b51</id>
+      <masked>false</masked>
+      <name>Affiliate</name>
+   </variable>
+</TestCaseEntity>

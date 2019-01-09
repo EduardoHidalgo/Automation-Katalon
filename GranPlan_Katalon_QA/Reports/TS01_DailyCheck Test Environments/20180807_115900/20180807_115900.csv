@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TS01_DailyCheck Test Environments,Chrome 67.0.3396.99,,2018-08-07 11:59:02,2018-08-07 11:59:39,37.162s,FAILED
+,,,,,,
+Test Cases/DailyCheck/TC01_Verify Sucessfull - Landing Aeromexico,Chrome 67.0.3396.99,,2018-08-07 11:59:03,2018-08-07 11:59:25,22.207s,PASSED
+openBrowser,Chrome 67.0.3396.99,,2018-08-07 11:59:03,2018-08-07 11:59:07,3.381s,PASSED
+maximizeWindow,Chrome 67.0.3396.99,,2018-08-07 11:59:07,2018-08-07 11:59:08,1.217s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-08-07 11:59:08,2018-08-07 11:59:13,5.566s,PASSED
+waitForPageLoad,Chrome 67.0.3396.99,,2018-08-07 11:59:13,2018-08-07 11:59:15,1.445s,PASSED
+delay,Chrome 67.0.3396.99,,2018-08-07 11:59:15,2018-08-07 11:59:17,2.026s,PASSED
+verifyElementPresent,Chrome 67.0.3396.99,,2018-08-07 11:59:17,2018-08-07 11:59:17,0.103s,PASSED
+takeScreenshot,Chrome 67.0.3396.99,,2018-08-07 11:59:17,2018-08-07 11:59:18,0.673s,PASSED
+click,Chrome 67.0.3396.99,,2018-08-07 11:59:18,2018-08-07 11:59:18,0.446s,PASSED
+delay,Chrome 67.0.3396.99,,2018-08-07 11:59:18,2018-08-07 11:59:19,1.004s,PASSED
+click,Chrome 67.0.3396.99,,2018-08-07 11:59:19,2018-08-07 11:59:19,0.202s,PASSED
+delay,Chrome 67.0.3396.99,,2018-08-07 11:59:19,2018-08-07 11:59:24,5.004s,PASSED
+closeBrowser,Chrome 67.0.3396.99,,2018-08-07 11:59:24,2018-08-07 11:59:25,0.758s,PASSED
+,,,,,,
+Test Cases/DailyCheck/TC02_Verify Sucessfull - Ajax Ktravel,Chrome 67.0.3396.99,,2018-08-07 11:59:25,2018-08-07 11:59:39,13.657s,FAILED
+"Statement - url = CustomKeywords.package_DailyCheck_TC02_Ajax_Ktravel.packageSearch.CrearURL(domain, affiliate)",Chrome 67.0.3396.99,,2018-08-07 11:59:25,2018-08-07 11:59:25,0.033s,PASSED
+package_DailyCheck_TC02_Ajax_Ktravel.packageSearch.NavegarURL,Chrome 67.0.3396.99,,2018-08-07 11:59:25,2018-08-07 11:59:39,13.287s,FAILED
